@@ -111,7 +111,7 @@ code {
 
 /* Header Styles */
 .header {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, rgb(0, 0, 256) 0%, rgb(0,256, 256) 100%);
   color: white;
   padding: 3rem 0;
   margin-bottom: 2rem;
